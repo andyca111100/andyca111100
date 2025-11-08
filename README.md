@@ -3,4 +3,4 @@
 - [Unlauncher](https://jkuester.github.io/unlauncher) ([[1]](https://github.com/jkuester/unlauncher/pull/224))
 - https://bgammon.org ([[1]](https://translate.codeberg.org/user/?q=translates:uk%20contributes:bgammon/client) [[2]](https://translate.codeberg.org/user/?q=translates:uk%20contributes:bgammon/server))
 - [DDNet](https://ddnet.org) ([[1]](https://github.com/ddnet/ddnet/pulls?q=is:pr+author:EGYT5453))
-- [AAAAXY](https://divverent.github.io/aaaaxy) ([[1]](https://github.com/divVerent/aaaaxy/pull/382))
+- [AAAAXY](https://divverent.github.io/aaaaxy) ([[1]](https://github.com/divVerent/aaaaxy/pull/382) [[2]](https://github.com/divVerent/aaaaxy/pull/565))
